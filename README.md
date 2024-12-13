@@ -1,6 +1,6 @@
 # C242-PS240-Skinalyze
 
-![Logo](https://github.com/daffafif/C242-PS240-Skinalyze/blob/ea9df891c7a219f696a6a8bcdb4c50e0cb3bf5e6/CC/pict/skinalyze-logo-removebg-preview.png)
+![Logo](https://github.com/nadhifasalfaad/Backend-API/blob/3079adf3448d287db3489fd52071d21a5d44cac6/models/Skinaly.png)
 # Overview
 Skinalyze is an artificial intelligence-based application designed to detect various facial skin problems quickly and accurately. By utilizing deep learning technology such as Convolutional Neural Networks (CNN), this application analyzes images of the user's facial skin taken via smartphone. Skinalyze provides an initial prediction of skin conditions, making it easier for users to do self-screening anytime and anywhere.
 
