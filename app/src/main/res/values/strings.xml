@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Skinaliyze</string>
+    <string name="title_home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="Profile">Profile</string>
+    <string name="error_email_gmail">Email harus valid dan menggunakan domain @gmail.com</string>
+    <string name="error_password">Kata sandi harus minimal 8 karakter</string>
+    <string name="login_succes">Berhasil Masuk</string>
+    <string name="signin">SIGN IN</string>
+    <string name="account">Already have an account?</string>
+    <string name="signup">SIGN UP</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="description">To See Skin Condition</string>
+    <string name="create">Create Your Account Now</string>
+    <string name="des_image">register_image_desc</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="des_signin">Mau tau kondisi wajahmu? ayo login</string>
+    <string name="back">WELCOME BACK!!!</string>
+    <string name="signin_des">login_image_desc</string>
+    <string name="search">Search</string>
+    <string name="cancle">Cancel</string>
+    <string name="des_cancel">Cancel Button</string>
+    <string name="des_home">Best Skincare</string>
+    <string name="image_des">Profile Image</string>
+    <string name="teks">Hi</string>
+    <string name="des_teks">Lets take care of your skin!</string>
+    <string name="greeting_message">Hi, %1$s</string>
+    <string name="sub_greeting_message">Lets take care of your skin!</string>
+    <string name="product_not_found">Product not found</string>
+    <string name="no_product_details_available">No product details available</string>
+    <string name="product_not_found_toast">Product not found</string>
+    <string name="loading_status">Loading...</string>
+    <string name="result">Result</string>
+    <string name="confidence_score">Confidence Score</string>
+    <string name="image_upload_preview">Image Upload Preview</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="detail">Detail</string>
+    <string name="greeting_text">Hi, %1$s</string>
+    <string name="default_greeting">Hi, User</string>
+    <string name="error_fetching_user_data">Error fetching user data</string>
+
+    <string-array name="gender_options">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>
