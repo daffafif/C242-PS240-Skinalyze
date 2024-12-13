@@ -11,10 +11,10 @@ This application aims to increase the accessibility of skin health services, esp
 
 | Name | Bangkit ID   |  Learning Path | Profile   |
 | ------------ | ------------ | ------------ | ------------ |
-| Upiyah | A393B4KX4381 | Mobile Development | [profile]()|
+| Upiyah | A393B4KX4381 | Mobile Development | [profile](https://www.linkedin.com/in/upiyah-80337a268/)|
 | Aditya Adi Nugraha | A009B4KY0108 | Mobile Development | [profile](https://www.linkedin.com/in/aditya-ardi-nugraha-218967330/)|
 | Sabila Risqi Adriani| M466B4KX3992 | Machine learning | [profile](www.linkedin.com/in/sabila-andriani-7596772a3)|
 | Dyah Putriana Savitri | M466B4KX1208 | Machine learning | [profile](https://www.linkedin.com/in/dewi-sawita-3384a7283?trk=contact-info)|
 | Dewi sawita | M466B4KX1083 | Machine Learning | [profile](https://www.linkedin.com/in/dewi-sawita-3384a7283?trk=contact-info)|
-| Daffa Ammar Afif | C009B4KY0962 | Cloud Computing | [profile]()|
+| Daffa Ammar Afif | C009B4KY0962 | Cloud Computing | [profile](http://www.linkedin.com/in/daffa-ammar-afif-4388992b2)|
 | Nadhifa Salfadilla | C187B4KX3197 | Cloud Computing | [profile](https://www.linkedin.com/in/nadhifa-salfadilla-736617223/)|
